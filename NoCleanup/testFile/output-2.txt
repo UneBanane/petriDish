@@ -1,0 +1,40 @@
+                      a                            
+                     aaa         b                 
+          a         aaa          bbb               
+         aaaa   c    aa         bbbbb              
+          aaa  cc   a             b                
+           a a cccc                                
+         b     ccc  a    d   ccc  eeee             
+         bb        aaa    dd cccc  ee              
+        bbb       aaa   ddd  cc    eee             
+         bbb       aa   d d   c       e  d         
+ b       b        a    dd                ddd       
+ bbb       ff f                       c d d        
+bbbbb       fff          f ff   ff f cc   ddd      
+  b    d    fff b        fff     fff cccc   d      
+     ddd   f    bbb      fff     fff ccc           
+      d d      bbbbb        f   f                  
+    ddd          b    a a     f   d                
+    d          a     aaa   fff     dd              
+              aaa   aaaa   fff   ddd               
+     b       aaa     a     f ff  d d c       ccc   
+     bbb      aa       dd       dd   cc f    cccc  
+    bbb      a       d d     f     cccc  fff cc    
+     bb   dd         ddd      fff   ccc  fff  c    
+     b     d d      dd        fff       ff f       
+           ddd        d      ff f   b          d   
+       b     dd  c       a        bbbbb    d   ddd 
+       bbb  d   cc        aa  fff  bbb   dd   d d  
+      bbb       cccc     aaa   ff    b    ddd   ddd
+       bb       ccc       aaa fff         d d     d
+       b             fff   a  f  f          dd     
+                f  f  ff                           
+          e     fff  fff         ff f              
+           eee   ff  f  f         fff              
+            ee  fff               fff              
+           eeee                  f                 
+                                                   
+                   f ff                            
+                   fff                             
+                   fff                             
+                      f                            

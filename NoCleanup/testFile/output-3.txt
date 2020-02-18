@@ -1,0 +1,181 @@
+                                                                                         a                                                                                        
+                                                                                          aaaaa                                                                                   
+                                                                                           aaa                                                                                    
+                                                                                          aaaaa      b                                                                            
+                                                                                           aaaaaa  bbbbb                                                                          
+                                                                                          aaaaa    bbbbb                                                                          
+                                                                                          a aa a  bbbbbb                                                                          
+                                                                                             a    bbbbbb                                                                          
+                                                                                               c  bbbbbb   d                                                                      
+                                                                                           ccccc       b  dddd d  e                                                               
+                                                                                          cccccc         dddddd   eee                                                             
+                                                                                          cccccc        d dddd    eeee                                                            
+                                                                          ffff             cccc cc       dddddd eeeee                                                             
+                                                                          fffff     e   e ccccc         dddd d   eeeee                                                            
+                                                                          fffff     eeee  c               d d    eeeee                                                            
+                                                                          fffff  eeeeeeee           e e e        eeee                                                             
+                                                                         fffff    eeeeee   ggg       eeee       e e e                                                             
+                                                                          ffff    eeeeeee gggggg     eeeee                                                                        
+                                                                          f        e ee   gggggg     eeeee        d                                                               
+                                        h           hh           iii     f                gggggg    eeeee          d d           jj        d                                      
+                                        hh hh     hhhhh          iiiii                   gggggg  k    eeee        ddddd        jjjjj    d d                                       
+                                         hhhhhh   hhhhh        iiiiii   d                  gg   kkkkk eee         dddd d      jjjjj    ddddd                                      
+                                        hhhhhhh  hhhhhhh        iiiiii   d d                g kkkkkk  e          dddddd        jjjjjj d dddd                                      
+                                         hhhhh   hhhhhh        iiiiii   ddddd                  kkkkkk             dddddd  l  l jjjjjj  dddddd                                     
+                                         hhhhh     hh hh        iii i   dddd d                kkkkkk     m         d dd  lllll jjj j  dddddd                                      
+                                          hh           h               dddddd                 kkk k   m mmm    ggg  d d llllll    j    dd d                                       
+                                                           n n  bbb     dddddd   bbb           k       mmmmm   gggg     l llll   j     d d                                        
+                              oo     c                   nnnn   bbbbb    d dd  bbbbb           k       mmmmm  ggggg      lllll                                                    
+                            o ooo    ccccc               nnnnnn bbbbb     d d  bbbbb         p       mmmmmmm  ggggggg     lllll                                                   
+                           o oooo    cccccc              nnnnn  bbbbbb        bbbbbb     p pppp       mmmmm   gggggg      l   l  ll                                               
+                           oooooo    cccccc             nnnnnn  bbbbb          bbbbb    pppppp         m mm    gggg  e ee       ll l     jj                                       
+                           ooooooo cc cccc              nnnn   bbbbbb     qq   bbbbbb   pppppp      b             g eeeeeee    lllllll  jjj j      g                              
+                             oooo     ccccc              n               qqqqq           pppppp     bbbbbb          eeeeee      lllll  j jjjjj  gggg                              
+                               o o        c             nn             qqqqqqq            pppp      bbbbbb     r   eeeeeeee     lllll j jjjjjj gggggg                             
+                                      s        c            hh          qqqqq       mmm    p p      bbbbbb   rrrr     eeee     llllll   jjjjj  ggggggg          e e e             
+                                s ss ss    ccccc    qq      hhhh        qqqqq     mmmmmm            bbbbb   rrrrrr    e   e         ll  jjjjj  ggggg            eeee              
+                                sssssss cc cccc  qqqqq     hhhhh       qqq qq     mmmmmmm    b      bbbbb   rrrrr                          j    gggg           eeeee              
+                                 ssssss   cccccc qqqqqq    hhhhhh       q          mmmmm     bbbbbb   b    rrrrrrr           b                  ggg            eeeee              
+                                 ssss s   cccccc  qqqqq     hhhhh            p p  mmmmm      bbbbbb        rrrrrrr  bbbbbb bbbbb         t                      eeeee             
+                                  ss s    ccccc  qqqqq     hhhhh             pppp  mm  m     bbbbbb                 bbbbb  bbbbb      t t ttt                  eeee               
+                                  sss     c     qqqqq     hh h              pppppp  m        bbbbb                 bbbbbb bbbbbb      ttttttt         ll        eee               
+                            o o                  q  q  j                     pppppp     g    bbbbb     i i    fff   bbbbb bbbbbb      ttttttt          llllll     e               
+                             ooooo                    jjjjj                  pppppp     gggg   b      iiii   ffffff bbbbb bbbbbb  e    ttttt           lllll                      
+                            ooooooo          j        jjjjj                 pppp p     gggggg         iiiiii ffffff   bbb      b  eee  tttt    q  q    lllll                      
+                             oooooo       jjjjj      jjjjjj j   rrrrrrr      p        ggggggg         iiiiii ffffff               eeee  t     qqqqq   lllllll                     
+                             oooo         jjjjj      jjjjj j    rrrrrrr                 ggggg          iiiii fffffff  l   l     eeeee     b    qqqqq    l ll                      
+                              oo o      j jjjjjj      j jjj      rrrrr  e e e           gggg          iiiii      f  f lllll      eeeee  bbbbb   qqqqq    ll                       
+                              ooo        j jjjjj   g    jj       rrrrrr  eeee         q  ggg     d      i i            lllll     eeeee  bbbbb  qqqqqq       a                     
+                        nn                jjj j    gg             rrrr   eeeee    qq qqq      d d                      llll l    eeee  bbbbbb  qqqqq         aaaaa                
+                        n        h         jj    gggggg             r    eeeee    qqqqq      ddddd      k       p  p   llllll   e e e  bbbbbb     qq    m     aaa         c       
+                      nnnn   hh hh              gggggg    n     f       eeeee     qqqqq     d dddd      k      ppppppp lllll           bbbbbb        m  mm   aaaaa    ccccc       
+                    nnnnnn hhhhhh               gggggg  nnn n    f        eeee   qqqqqqq     dddddd    kkk k    ppppp  l  l      sssss      b  k k    mmmmm   aaaaaa cccccc       
+                    nnnnn  hhhhhhh  ttt     ttt gggggg  nnnn     ffff     eee    qqqqq      dddddd     kkkkkk   pppppp          s sss         kkkk   mmmmm   aaaaa   cccccc       
+                   nnnnnn   hhhhh  tttt    tttt   ggg  nnnnnn   fffff     e        qq   nn   dd d       kkkkkk   pppp          s sss         kkkkk  mmmmmmm  a aa a   cccc cc     
+                     nnnn   hhhhh ttttt   ttttt        nnnnn     fffff                   n   d d  jj   kkkkkk   pppp   cc cc   ssssss         kkkkk  mmmmmm     a    ccccc        
+                    n n       hh  tttt t  tttt t     nnnnnnn     fffff     pp       r   nnnn     jjjjj   kkkkk   pp     ccccc  ssssss        kkkkk    mmm            c            
+                                 tttttt  tttttt      n nn        fffff    pppp    rrrr  nnnnnn    jjjjj   k             ccccc    sss  rr   kkkkkk              f                  
+                       b          tttt    tttt              ll   ffff    pppp    rrrrrr  nnnnn  jjjjjj       k k        ccccc      ss rrrr   kk k     b       f                   
+                     bbbbb  mm m    ttt     ttt        llllll           pppppp   rrrrr   nnnnnn jjjjjj      kkkk        ccccc         rrrrr         bbbbb  ffff     a             
+                     bbbbb  mmmmm                       lllll    c       ppppp  rrrrrrr  nnnn    j jjj     kkkkk          cccc      b rrrrr         bbbbb  fffff a aa a           
+                    bbbbbb mmmmmmm       i i   b        lllll    ccccc  ppppppp rrrrrrr    n n    j         kkkkk        c     bbbbbb rrrrrr       bbbbbb fffff  aaaaa            
+          cc cc     bbbbbb mmmmm        iiii   bbbbbb  lllllll   cccccc   p  p                     j       kkkkk         c     bbbbbb rrrrr        bbbbbb fffff   aaaaaa sss      
+           ccccc    bbbbbb mmmmm        iiiiii bbbbbb   ll l     cccccc        k               fff       kkkkkk  bbbbbb        bbbbbb rr r         bbbbbb fffff  aaaaa   ss s     
+           ccccc         b  mmm m ffff  iiiiii bbbbbb    ll    cc cccc        kkkkk           ffffff       kk k  bbbbb          bbbbb      p p          b  ffff   aaa   ssss s    
+           ccccc             m    fffff  iiiii bbbbb              ccccc     kkkkkk      rr    ffffff            bbbbbb   iii    bbbbb     pppp     l  l          aaaaa  ssssss    
+           ccccc                  fffff iiiii  bbbbb         hh       c      kkkkkk     rrrr  ffffff   cc cc     bbbbb iiiii      b      pppppp   lllll   m mm  a      sssssss    
+             cccc                 fffff   i i    b   m      hhhhh           kkkkkk      rrrrr fffffff   ccccc    bbbbb  iiiiii          pppppp   llllll  mmmmm         s ss ss    
+            c       n            fffff              mmm m   hhhhh   ffff    kkk k       rrrrr     f  f  ccccc      bbb iiiiii           pppppp   l llll mmmmmmm              s    
+            c     n nnn           ffff        ttt  mmmmm   hhhhhhh  fffff    k     l  l rrrrrr          ccccc           iiiiii    q  q   p pppp   lllll   mmmmm                   
+                   nnnn           f         tttt   mmmmm    hhhhhh  fffff    k    lllll rrrrr   iii     ccccc     r rr  i iii     qqqqq      p     lllll  mmmmm                   
+            l  l  nnnnnn         f    m    tttttt  mmmmmmm hh hh    fffff        llllll rr r    iiiii     cccc   rrrrr           qqqqq             l   l m mmm                    
+           lllll   nnnnn             mmm m  tttt t  mmmmm  h       fffff   p  p  l llll       iiiiii     c      rrrrrr          qqqqq        sss            m           cc cc     
+          llllll   nnnnnnn          mmmmm   ttttt   mm m            ffff ppppppp  lllll        iiiiii    c       rrrrr       j  qqqqqq       ss s              s nn      ccccc    
+    l   l l llll      nn n          mmmmm    tttt        s          f     ppppp    lllll      iiiiii        d d  rrrrr      j    qqqqq      ssss s       s ss ss  n      ccccc    
+    lllll  lllll            jj      mmmmmmm   ttt  s ss ss         f     pppppp    l   l       iii i       d dd   rrrr     j jjj qq         ssssss       sssssss nnnn    ccccc    
+   lllll    lllll         jjjjj      mmmmm         sssssss                pppp               j            dddddd    rr    jjjjjj           sssssss        ssssss nnnnnn  ccccc    
+  l llll    l   l        jjjjj       mm m           ssssss                 pppp  e ee     jjjjj  o o     dddddd           jjjjjj           s ss ss        ssss s  nnnnn    cccc   
+  llllll             g    jjjjjj                    ssss s                  pp  eeeeeee   jjjjj   oooo    dddd d            jjjjj                s         ss s   nnnnnn  c       
+   lllll             gg   jjjjjj    n             p  ss s   r rr                eeeeee  j jjjjjj ooooooo  ddddd       kk k jjjjj          l  l             sss    nnnn    c       
+    l  l           gggggg jjj j   nnn n       p pppp sss   rrrrr               eeeeeeee  j jjjjj  oooooo   d d      kkkkkk  jj   c        lllll   hh                n n           
+         sssss    gggggg     j    nnnn       pppppp       rrrrrr    hh            eeee    jjj j   oooo o  d           kkkkk      ccccc    llllll  hhhh         a                  
+          sss s   gggggg    j    nnnnnn      pppppp        rrrrr  hhhh            e   e    jj     ooo o                kkkkk     cccccc   llll l hhhhh       a aa a    mmm        
+           sss s  gggggg         nnnnn  g     pppppp       rrrrr  hhhhh                            oo           fff   kkkkk      cccccc   lllll  hhhhhh       aaaaa   mmmmmm      
+          ssssss    ggg  k k   nnnnnnn  gggg   pppp   q  q  rrrr hhhhhh               jj        m             ffffff   kkkk    cc cccc   lllll    hhhhh     aaaaaa   mmmmmmm      
+          ssssss         kkkk  n nn    gggggg   p p  qqqqq    rr hhhhh               jjj j   m mmm    g       ffffff    k k       ccccc  l   l   hhhhh        aaaaa   mmmmm       
+           sss           kkkkk        ggggggg         qqqqq       hhhhh    p  p     j jjjjj   mmmmm   gggg    ffffff                  c         hh h           aaa     mmmmm      
+          ss            kkkkk           ggggg          qqqqq b      h hh ppppppp   j jjjjjj   mmmmm  gggggg  fffffff             rr r       bbb               aaaaa   m  mm       
+              h          kkkkk          gggg          qqqqqq bbbbbb       ppppp      jjjjj  mmmmmmm ggggggg f  f                 rrrrr    bbbbb    ee e            a     m        
+          hh hh     hh    kkkkkk    i i  ggg          qqqqq  bbbbbb      pppppp      jjjjj   mmmmm    ggggg         k kk       f rrrrrr   bbbbb  eeeeeee                          
+rrrrrrr hhhhhh      hhhh  k kk    iiiii                  qq  bbbbbb       pppp          j     m mm    gggg          kkkkkk    f  rrrrr   bbbbbb   eeeeee       ss   sssss         
+rrrrrrr hhhhhhh    hhhhh           iiiii  ll                 bbbbb         pppp                        ggg         kkkkk   ffff  rrrrr    bbbbb  eeeeeeee    sss   s sss          
+ rrrrr   hhhhh     hhhhhh         iiiiii   llllll   q  q     bbbbb  fff     pp   p  p           hh                kkkkk    fffff rrrr     bbbbbb  eeee     ssssss s sss           
+ rrrrrr  hhhhh      hhhhh         iiiiii   lllll    qqqqq      b   ffffff      ppppppp        hhhh          bbb    kkkkk  fffff  rr              e   e     ssssss ssssss          
+  rrrr     hh      hhhhh          iiii     lllll   qqqqq           ffffff       ppppp         hhhhh       bbbbb    kkkk   fffff                a           s sss  ssssss          
+    r             hh h         g   i i    lllllll qqqqq            ffffff      pppppp        hhhhhh       bbbbb    k k    fffff o o      aa a a    c        s sss   sss           
+                            gggg       qq   l ll  qqqqqq           fffffff      pppp         hhhhh       bbbbbb            ffff  ooooo    aaaaa    ccccc     sssss    ss          
+                           gggggg    qqqqq   ll    qqqqq               f  f c    pppp  a      hhhhh       bbbbb    iii   f      ooooooo  aaaaaa    cccccc                         
+                           ggggggg   qqqqqqq       qq      sssss   k        c     pp    aaaaa   h hh      bbbbbb   iiiii  f      oooooo aaaaaaa    cccccc                         
+                  c        ggggg      qqqqq               s sss   kkkkk      cccc        aaa                     iiiiii   ffff   oooo     aaa a  cc cccc  sssss                   
+                  ccccc     gggg      qqqqq              s sss  kkkkkk     ccccc        aaaaa       hh            iiiiii fffff    oo o   a a        ccccc  sss s                  
+                   cccc cc  ggg       qq qqq    k k      ssssss  kkkkkk    ccccc         aaaaaa   hhhh       t   iiiiii   fffff   ooo      a c          c   sss s                 
+                  cccccc        hh h      q     kkkk     ssssss kkkkkk     ccccc        aaaaa     hhhhh     tttt  iii i   fffff              c       ll    ssssss  fff            
+                  cccccc    n    hhhhh          kkkkk      sss  kkk k      ccccc        a aa a   hhhhhh     ttttt         fffff          cccc   llllll     ssssss ffffff          
+                   ccccc  nnn n   hhhhh  i i   kkkkk         ss  k        cc cc            a     hhhhh     ttttttt        ffff   q  q     ccccc  lllll      sss   ffffff          
+                hh     c  nnnn   hhhhhh iiii    kkkkk            k              g      h          hhhhh    ttttttt               qqqqq    ccccc  lllll     ss     ffffff          
+               hhhhh     nnnnnn  hhhhh  iiiiii   kkkkkk                      gggg      hh hh        h hh   t t ttt              qqqqq     ccccc lllllll           fffffff         
+               hhhhh     nnnnn    hhhh  iiiiii   k kk      e   e            gggggg      hhhhhh                t         qq     qqqqq      ccccc  ll l   nn   l  l     f  f        
+              hhhhhhh  nnnnnnn    hh     iiiii              eeee      t     ggggggg    hhhhhhh  ttt                   qqqqq    qqqqqq      cc cc  ll    n    lllll                
+               hhhhhh  n nn             iiiii           s  eeeeeeee  tttt   ggggg       hhhhh  tttt              pp   qqqqqqq   qqqqq                 nnnn   llllll               
+              hh hh          e e e        i i     s ss ss   eeeeee   ttttt   gggg       hhhhh ttttt             pppp   qqqqq    qq    p p           nnnnnn   llll l  e      e ee  
+              h            h  eeee                sssssss  eeeeeee  ttttttt  ggg         hh   tttt t  cc cc      pppp  qqqqq         pppp   b       nnnnn    lllll   eee   eeeeeee
+                       hh hh  eeeee       h        ssssss    ee e   ttttttt                  tttttt  ccccc      pppppp qq qqq       pppppp  bbbbbb nnnnnn   lllll    eeee  eeeeee 
+                     hhhhhh   eeeee   hh hh        ssss s           t t ttt                   tttt   ccccc      ppppp      q       pppppp   bbbbbb   nnnn   l   l  eeeee  eeeeeeee
+                     hhhhhhh eeeee  hhhhhh          ss s       oo      t        h               ttt  ccccc     ppppppp             pppppp   bbbbbb  n n             eeeee    eeee 
+                      hhhhh    eeee hhhhhhh         sss       ooo o         hh hh                    ccccc      p  p         iii    p pppp  bbbbb          oo       eeeee    e   e
+                      hhhhh    eee   hhhhh      jj            oooo o      hhhhhh      p  p          cccc                     iiiii      p   bbbbb        o ooo      eeee          
+                        hh     e     hhhhh     jjj j  rr r    oooooo      hhhhhhh    ppppppp      p     c           iii    iiiiii   c         b         o oooo     e e e      ttt 
+                                 a     hh     j jjjjj rrrrr  ooooooo       hhhhh      ppppp   p pppp    c         iiiii     iiiiii  ccccc               oooooo              tttt  
+                   d          a aa a         j jjjjjj rrrrrr  oooo   c     hhhhh      pppppp pppppp                iiiiii  iiiiii   cccccc  l  l        ooooooo            tttttt 
+                    d d       aaaaa            jjjjj  rrrrr  o o     c       hh        pppp  pppppp        cc cc  iiiiii    iii i   cccccc  lllll         oooo      ffff    tttt t
+                   ddddd       aaaaaa          jjjjj  rrrrr      cccc           mmm   pppp    pppppp        ccccc  iiiiii         cc cccc   llllll          o o     fffff   ttttt 
+                   dddd d     aaaaa               j   rrrr   oo   ccccc       mmmmmm   pp      pppp         ccccc  i iii             ccccc  llll l  i i             fffff    tttt 
+                  dddddd       aaa                    rr   o ooo  ccccc       mmmmmmm           p p         ccccc        p               c  lllll   iiii      g     fffff     ttt 
+                   dddddd     aaaaa             iii       o oooo  ccccc        mmmmm     rr r               ccccc    p pppp                lllll  iiiiii      gg   fffff          
+                    d dd     a         mm m   iiiii       oooooo  ccccc       mmmmm      rrrrr                cccc  pppppp        bbbbbb   l   l  iiiiii    gggggg  ffff          
+                  m  d d               mmmmm   iiiiii     ooooooo  cc cc       mm  m     rrrrrr    sssss     c      pppppp        bbbbb           iiiii    gggggg   f             
+               m  mm                  mmmmmmm iiiiii        oooo                m        rrrrr    s sss      c   hh  pppppp      bbbbbb            iiiii   gggggg  f   p  p       
+                mmmmm    e e e        mmmmm    iiiiii         o o           o o          rrrrr   s sss         hhhh   pppp        bbbbb            i i     gggggg     ppppppp     
+               mmmmm      eeee        mmmmm    i iii     ll               oooo       pp  rrrr    ssssss        hhhhh   p p  ttt   bbbbb                      ggg       ppppp      
+              mmmmmmm     eeeee        mmm m            l ll            ooooooo     pppp rr      ssssss       hhhhhh        tttt    bbb           qq                   pppppp     
+               mmmmmm     eeeee         m      iii    lllllll           oooooo     pppp      oo    sss        hhhhh         ttttt       o o     qqqqq                   pppp      
+                mmm      eeeee                 iiiii   lllll            o oooo    pppppp   o ooo     ss        hhhhh       t tttt        oooo   qqqqqqq                pppp       
+                           eeee              iiiiii    lllll             o ooo     ppppp  o oooo                 h hh       tttttt      ooooooo  qqqqq            h     pp        
+                           eee          o o   iiiiii   llllll         jj   oo     ppppppp oooooo                             tttt        oooooo  qqqqq            hh hh           
+                           e         ooooo   iiiiii   ll      o o    jjj j          p  p  ooooooo                 h         ttt          oooo o  qq qqq            hhhhhh         
+                     fff          s ooooooo   iii i        ooooo    j jjjjj                 oooo              hh hh              cc cc   ooo o       q     o o    hhhhhhh         
+                    ffffff  s ss ss oooooo                ooooooo  j jjjjjj bbbbbb    a       o o           hhhhhh                ccccc   oo   h hh      oooo      hhhhh          
+                    ffffff  sssssss   oooo            n   oooooo     jjjjj  bbbbb  a aa a             t     hhhhhhh               ccccc      hhhhh     ooooooo     hhhhh          
+                    ffffff   ssssss  o oo           n nnn   oooo     jjjjj bbbbbb  aaaaa           t t ttt   hhhhh            ttt ccccc     hhhhh      oooooo       hh            
+                    fffffff  ssss s   ooo    e e e   nnnn  o oo  hh     j   bbbbb   aaaaaa         ttttttt   hhhhh     o o   tttt ccccc     hhhhhh     o oooo                     
+                        f  f  ss s            eeee  nnnnnn  ooo hhhhh       bbbbb  aaaaa   q  q    ttttttt     hh   ooooo   ttttt   cccc     hhhhh      o ooo                     
+                     f        sss             eeeee  nnnnn      hhhhh         bbb   aaa    qqqqq    ttttt          ooooooo  tttt t c         hhhh   d d   oo                      
+                      f                       eeeee  nnnnnnn   hhhhhhh             aaaaa  qqqqq     tttt    b      oooooo  tttttt  c           hh dddd d       ggg                
+                      ffff    r rr           eeeee      nn n    hhhhhh  ffff      a      qqqqq       t      bbbbbb   oooo   tttt                   dddddd    gggggg               
+                     fffff   rrrrr     l  l    eeee            hh hh   fffff             qqqqqq             bbbbbb  o oo      ttt                 d dddd     gggggg               
+                      fffff rrrrrr     lllll   eee      e e e  h       fffff              qqqqq       cc cc bbbbbb   ooo                   sssss   dddddd    gggggg               
+                      fffff  rrrrr     llllll  e     nn  eeee          fffff      k       qq         ccccc  bbbbb              fff        s sss     dddd d    gggggg              
+                      fffff  rrrrr     llll l        n   eeeee          fffff     k                  ccccc  bbbbb     d      ffffff      s sss       d          gg                
+                      ffff    rrrr     lllll       nnnn  eeeee      i i ffff     kkk k         n n   ccccc    b    d d       ffffff      ssssss                 g                 
+                                rr    lllll      nnnnnn eeeee      iiii    f     kkkkkk      nnnn    ccccc        ddddd      ffffff      ssssss                                   
+                                      l   l      nnnnn    eeee     iiiiii   f     kkkkkk     nnnnnn cccc         d dddd     fffffff  p p   sss                                    
+                                                nnnnnn    eee      iiiiii     d  kkkkkk      nnnnn      c    b    dddddd   f  f     pppp     ss                                   
+                                                  nnnn    e         iiiii  d d     kkkkk    nnnnnn      c  bbbbb dddddd  h         pppppp                                         
+                                                 n n   m      r rr iiiii  ddddd     k       nnnn   e ee    bbbbb  dd d   hh hh    pppppp                                          
+                                                      mm  m  rrrrr   i i d dddd              n    eeeeeee bbbbbb  d d     hhhhhh  pppppp                                          
+                                                     mmmmm  rrrrrr        dddddd            nn    eeeeee  bbbbbb         hhhhhhh   p pppp                                         
+                                                      mmmmm  rrrrr       dddddd                  eeeeeeee bbbbbb          hhhhh        p                                          
+                                                     mmmmmmm rrrrr        dd d    ll      a         eeee       b    l  l  hhhhh                                                   
+                                                     mmmmmm   rrrr        d d    l ll  a aa a       e   e           lllll  hh                                                     
+                                                       mmm      rr             lllllll aaaaa          q      a      llllll                                                        
+                                                           jj                   lllll   aaaaaa    qq qqq   a a      llll l                                                        
+                                                         jjjjj                  lllll  aaaaa      qqqqq     aaa a   lllll                                                         
+                                                        jjjjj                   llllll  aaa       qqqqq   aaaaaaa  lllll                                                          
+                                                         jjjjjj                ll      aaaaa     qqqqqqq   aaaaaa  l   l sss                                                      
+                                                         jjjjjj              d        a          qqqqq      aaaaa        ss s                                                     
+                                                         jjj j              dddd d        r rr     qq      aa a a       ssss s                                                    
+                                                            j              dddddd        rrrrr                   a      ssssss                                                    
+                                                           j              d dddd        rrrrrr             sss         sssssss                                                    
+                                                                           dddddd        rrrrr             ss s        s ss ss                                                    
+                                                          h hh            dddd d         rrrrr            ssss s             s                                                    
+                                                        hhhhh               d d           rrrr            ssssss                                                                  
+                                                       hhhhh                                rr  l  l     sssssss                                                                  
+                                                       hhhhhh                                  lllll     s ss ss                                                                  
+                                                        hhhhh                                 llllll           s                                                                  
+                                                        hhhh                                  l llll             g                                                                
+                                                          hh                                   lllll             gggg                                                             
+                                                                                                lllll           gggggg                                                            
+                                                                                                l   l          ggggggg                                                            
+                                                                                                                 ggggg                                                            
+                                                                                                                 gggg                                                             
+                                                                                                                  ggg                                                             
