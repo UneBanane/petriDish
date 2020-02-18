@@ -1,5 +1,3 @@
-package PetriDish;
-
 import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
@@ -16,13 +14,10 @@ public class PetriDish {
 
 	public static void main(String[] args) {
 		int len;
-		String inputFile;
 
-		inputFile = args.length == 1 ? args[0] : "input.txt";
-		len = init(inputFile);
+		len = init(args);
 		if (len < 1) {
 			System.err.println("PetriDish: Loading Error.");
-			return;
 		}
 		execAlgo();
 		outputResponse();
@@ -85,7 +80,7 @@ public class PetriDish {
 
 	private static void outputResponse() {
 		try {
-			BufferedWriter writer = new BufferedWriter(new FileWriter("output.txt"));
+			BufferedWriter writer = new BufferedWriter(new FileWriter("_output.txt"));
 			writer.write(buildOutSring());
 			writer.close();
 		} catch (IOException e) {
@@ -93,27 +88,17 @@ public class PetriDish {
 			e.printStackTrace();
 		}
 	}
-	
-	// private static void printStringArray(ArrayList<String> result, String separator) {
-	// 	int idx = 0;
-		
-	// 	if (result == null)
-	// 	{
-	// 		System.err.println("PetriDish: Error: Trying to print empty result.");
-	// 		return;
-	// 	}
-	// 	while (idx < result.size()) {
-	// 		System.out.print(result.get(idx++) + separator);
-	// 	}
-	// }
 
 	// Preparation methods
 	
-	private static int init(String args) {
+	private static int init(String[] args) {
 		ArrayList<String> srcMap;
 		int len;
 		
-		if ((srcMap = loadMap(args)) == null || (len = getMapLen(srcMap)) == -1) {
+		if (!argCheck(args)) {
+			return -1;
+		}
+		if ((srcMap = loadMap(args[0])) == null || (len = getMapLen(srcMap)) == -1) {
 			System.err.println("Error occured while reading the file");
 			return -1;
 		}
@@ -157,5 +142,13 @@ public class PetriDish {
 			e.printStackTrace();
 		}
 		return srcMap;
+	}
+	
+	private static boolean argCheck(String[] args) {
+		if (args.length != 1) {
+			System.out.println("Usage: java petriDish filename");
+			return false;
+		}
+		return true;
 	}
 }

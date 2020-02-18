@@ -1,3 +1,5 @@
+package PetriDish;
+
 public class PetriShape {
 	int sWidth;
 	int sHeight;
