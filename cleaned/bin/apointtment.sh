@@ -1,0 +1,5 @@
+#!/bin/bash
+java PetriDish.PetriDish $1
+cat $1
+sleep 3
+cat output.txt
